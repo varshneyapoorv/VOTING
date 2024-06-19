@@ -12,6 +12,7 @@
 
         // Active = Expire = Ending Date
         // InActive = Active = Starting Date
+        // ??
 
         if($status == "Active")
         {
